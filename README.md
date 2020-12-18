@@ -1,6 +1,6 @@
 # SpeedTest_Official_CLI
 
-Perhaps, the best place to host [`SpeedTest CLI`](https://www.speedtest.net/apps/cli) bin?
+Perhaps, the best place to host [`SpeedTest Official CLI`](https://www.speedtest.net/apps/cli) bin?
 
 ## Linux
 
@@ -14,6 +14,4 @@ Perhaps, the best place to host [`SpeedTest CLI`](https://www.speedtest.net/apps
 
 **Note:** win64 only
 
-### Source
-
-Ookla SpeedTest CLI Site: https://www.speedtest.net/apps/cli
+***Source: [Ookla SpeedTest CLI](https://www.speedtest.net/apps/cli)***
